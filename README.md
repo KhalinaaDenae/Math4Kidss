@@ -14,7 +14,7 @@ To run locally :
 1)Clone the repository or download the source code. 
 2)Open a terminal or command prompt and navigate to the project directory. 
 3)Run the following command to install the required dependencies: npm install 
-4) run the following command in the terminal or command prompt: node server.js -  The server will start running on port 5002.
+4) run the following command in the terminal or command prompt: node server.js -  The server will start running on port 2002.
 5) Open index.html with live server to view app 
 
  
